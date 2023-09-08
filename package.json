@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/ksushavin/petly-api.git"
   },
-  "homepage": "https://petly-api.up.railway.app/api/",
+  "homepage": "https://github.com/ksushavin/petly-api.git",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
     "bcrypt": "^5.1.0",
